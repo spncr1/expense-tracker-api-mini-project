@@ -3,6 +3,12 @@
 An API for tracking personal expenses, built with Python, FastAPI, SQLAlchemy,
 Alembic, SQLite, JWT authentication, and Pytest.
 
+## Project Brief
+
+```text
+https://roadmap.sh/projects/expense-tracker-api
+```
+
 ## Features
 
 - Register a user.
